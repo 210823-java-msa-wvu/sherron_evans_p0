@@ -8,6 +8,7 @@
 -Log in to an existing account
 
 **Customers can**:
+
 -Register for a user account
 
 -Create a checking or savings account
