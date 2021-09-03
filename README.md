@@ -8,9 +8,12 @@
 -Log in to an existing account
 
 **Customers can**:
---Register for a user account 
+-Register for a user account
+
 -Create a checking or savings account
+
 -Deposit/withdraw into/from an account
+
 -Apply for a loan
 
 **Employee can**:
