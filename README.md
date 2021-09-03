@@ -17,5 +17,6 @@
 -Apply for a loan
 
 **Employee can**:
+
 -Approve/reject a loan
 
