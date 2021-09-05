@@ -7,9 +7,9 @@
 **Both users** (Customer and Employee) can:
 -Log in to an existing account
 
-**Customers can**:
+-Register for a user account (only with employee id)
 
--Register for a user account
+**Customers can**:
 
 -Create a checking or savings account
 
