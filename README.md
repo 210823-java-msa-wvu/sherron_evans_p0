@@ -5,6 +5,7 @@
 ##user stories
 
 **Both users** (Customer and Employee) can:
+
 -Log in to an existing account
 
 -Register for a user account (only with employee id)
