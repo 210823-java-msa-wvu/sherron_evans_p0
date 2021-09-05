@@ -21,3 +21,10 @@
 
 -Approve/reject a loan
 
+#Stretch Goal - 
+
+- Tracking all transactions 
+
+- Give employee user the ability to see all transactions.
+
+
